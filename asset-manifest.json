@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/fraise-generator/static/css/main.d1b05096.chunk.css",
-    "main.js": "/fraise-generator/static/js/main.e326e50f.chunk.js",
-    "main.js.map": "/fraise-generator/static/js/main.e326e50f.chunk.js.map",
+    "main.js": "/fraise-generator/static/js/main.2ed52dd0.chunk.js",
+    "main.js.map": "/fraise-generator/static/js/main.2ed52dd0.chunk.js.map",
     "runtime-main.js": "/fraise-generator/static/js/runtime-main.2390877e.js",
     "runtime-main.js.map": "/fraise-generator/static/js/runtime-main.2390877e.js.map",
-    "static/js/2.845626f0.chunk.js": "/fraise-generator/static/js/2.845626f0.chunk.js",
-    "static/js/2.845626f0.chunk.js.map": "/fraise-generator/static/js/2.845626f0.chunk.js.map",
+    "static/js/2.0624c9c8.chunk.js": "/fraise-generator/static/js/2.0624c9c8.chunk.js",
+    "static/js/2.0624c9c8.chunk.js.map": "/fraise-generator/static/js/2.0624c9c8.chunk.js.map",
     "index.html": "/fraise-generator/index.html",
-    "precache-manifest.57b340972b8684dc2969641a89aee3ce.js": "/fraise-generator/precache-manifest.57b340972b8684dc2969641a89aee3ce.js",
+    "precache-manifest.efb8ec023b1eb3446361cded917f68af.js": "/fraise-generator/precache-manifest.efb8ec023b1eb3446361cded917f68af.js",
     "service-worker.js": "/fraise-generator/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/fraise-generator/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.845626f0.chunk.js.LICENSE.txt": "/fraise-generator/static/js/2.845626f0.chunk.js.LICENSE.txt",
+    "static/js/2.0624c9c8.chunk.js.LICENSE.txt": "/fraise-generator/static/js/2.0624c9c8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/fraise-generator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2390877e.js",
-    "static/js/2.845626f0.chunk.js",
+    "static/js/2.0624c9c8.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e326e50f.chunk.js"
+    "static/js/main.2ed52dd0.chunk.js"
   ]
 }

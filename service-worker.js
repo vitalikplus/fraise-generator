@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fraise-generator/precache-manifest.57b340972b8684dc2969641a89aee3ce.js"
+  "/fraise-generator/precache-manifest.efb8ec023b1eb3446361cded917f68af.js"
 );
 
 self.addEventListener('message', (event) => {

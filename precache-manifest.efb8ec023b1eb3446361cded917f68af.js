@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51934b7334eaddc5ec8f68a323371aae",
+    "revision": "0ffcdf93b35044824a8fb1926fdc385e",
     "url": "/fraise-generator/index.html"
   },
   {
-    "revision": "6d51d003821ef942481b",
+    "revision": "58396aa8263010793647",
     "url": "/fraise-generator/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "3eb3556a7537bdb558c0",
-    "url": "/fraise-generator/static/js/2.845626f0.chunk.js"
+    "revision": "df056650ee1f0b0da087",
+    "url": "/fraise-generator/static/js/2.0624c9c8.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/fraise-generator/static/js/2.845626f0.chunk.js.LICENSE.txt"
+    "url": "/fraise-generator/static/js/2.0624c9c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d51d003821ef942481b",
-    "url": "/fraise-generator/static/js/main.e326e50f.chunk.js"
+    "revision": "58396aa8263010793647",
+    "url": "/fraise-generator/static/js/main.2ed52dd0.chunk.js"
   },
   {
     "revision": "24841630bd72d020de2e",
